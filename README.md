@@ -29,6 +29,8 @@ Output: The size is 28 * 28 * 6.
 
 Activation:Your choice of activation function.
 
+Pooling layer
+
 Input: The size is 28 * 28 * 6.
 
 Pooling layer parameters: The filter size is 2 * 2, and the step length is 2 for both length and width.
