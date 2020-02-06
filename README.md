@@ -19,9 +19,7 @@
 
 **Architecture**
 
-- Layer 1:
-
-Convolution Layer
+- Layer 1:Convolution Layer
 
 Input: The original image pixel matrix (length, width, color), the size is 28 * 28 * 1.
 
@@ -37,9 +35,7 @@ Pooling layer parameters: The filter size is 2 * 2, and the step length is 2 for
 
 Output: the size is 14 * 14 * 6.
 
-- Layer 2:
-
-Convolution layer
+- Layer 2:Convolution layer
 
 Input: The size is 14 * 14 * 6.
 
