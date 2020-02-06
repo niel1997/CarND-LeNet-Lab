@@ -21,7 +21,7 @@
 
 - Layer 1:Convolution Layer
 
-Input: The original image pixel matrix (length, width, color), the size is 28 * 28 * 1.
+Input: The original image pixel matrix (length, width, color), the size is 32 * 32 * 1.
 
 Convolution layer parameters: The filter size is 5 * 5, the depth is 6, the padding is not all 0s, and the step size is 1.
 
