@@ -15,7 +15,7 @@
 
 - Class 10
 
-## **Lenet-5 Model**
+## **Implement LeNet-5**
 
 **Architecture**
 
