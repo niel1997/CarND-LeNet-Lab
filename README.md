@@ -35,7 +35,7 @@ Input: The size is 28 * 28 * 6.
 
 Pooling layer parameters: The filter size is 2 * 2, and the step length is 2 for both length and width.
 
-Output: the size is 14 * 14 * 6
+Output: the size is 14 * 14 * 6.
 
 - Layer 2:
 
@@ -92,4 +92,4 @@ Number of output nodes: 10.
 - On the test set, the model was used to predict the result, and the final accuracy was 0.988. The model effect was very good.
 
 ## **Conclusion**
--Through this study, I have a general understanding of convolutional neural network. Compared with SVM algorithm, CNN algorithm greatly reduces the computation and improves the accuracy. In this case, the accuracy of the CNN algorithm can reach 98.8% after only 10 training sessions. This not only reflects the advantages of CNN algorithm, but also has more advantages of image recognition processing, greatly expanding the application range of CNN algorithm.
+- Through this study, I have a general understanding of convolutional neural network. Compared with SVM algorithm, CNN algorithm greatly reduces the computation and improves the accuracy. In this case, the accuracy of the CNN algorithm can reach 98.8% after only 10 training sessions. This not only reflects the advantages of CNN algorithm, but also has more advantages of image recognition processing, greatly expanding the application range of CNN algorithm.
