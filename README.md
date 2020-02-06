@@ -1,4 +1,4 @@
-# **LeNet Lab**
+# CarND-LeNet-Lab
 
 ## **Data**
 
